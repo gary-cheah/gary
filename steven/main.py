@@ -1,6 +1,4 @@
-def main():
+def newtext():
     print("Hello world.")
-    pass
+    
 
-
-main()
