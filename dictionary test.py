@@ -1,4 +1,4 @@
-d1 = {"gary": 24}
+zd1 = {"gary": 24}
 d2 = {"he work at sinriang trading": "as tuner"}
 # update在d1的句子会增加，d2/d3的没有变化
 d3 = {"4 YEAR": "Already"}
